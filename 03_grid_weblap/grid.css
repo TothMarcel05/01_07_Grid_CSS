@@ -1,10 +1,10 @@
 .grid-container{
     display: grid;
     grid-template-areas: 
-    "header header header"
-    "nav main main"
-    "nav aside sidebar"
-    "footer footer footer";
+    "header header header header"
+    "nav main main img"
+    "nav aside sidebar img"
+    "footer footer footer footer";
 
 }
 
